@@ -25,6 +25,8 @@ Drop-it: A Blender add-on to position meshes on the surface underneath
 
 download zip file | start Blender | open preferences | switch to the Add-ons tab | click Install button | locate the downloaded drop_it.zip file and double-click it | activate the addon by ticking the checkbox | in object mode select object |  press w or right click on the object | then just Drop It ;)
 
+[plugget entry](https://github.com/plugget/plugget-pkgs/tree/main/blender/drop-it-addon)
+
 ## instructions
 - right click mesh
 - click `drop-it`
@@ -36,4 +38,3 @@ download zip file | start Blender | open preferences | switch to the Add-ons tab
 
 All credit goes to **Andreasaust** 🙏
 
-[plugget entry](https://github.com/plugget/plugget-pkgs/tree/main/blender/drop-it-addon)
