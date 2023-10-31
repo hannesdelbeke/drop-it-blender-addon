@@ -21,9 +21,16 @@ Drop-it: A Blender add-on to position meshes on the surface underneath
 - Random (planar) location
 - Optimized performance for highpoly meshes
 
-Installation:
+## Installation:
 
 download zip file | start Blender | open preferences | switch to the Add-ons tab | click Install button | locate the downloaded drop_it.zip file and double-click it | activate the addon by ticking the checkbox | in object mode select object |  press w or right click on the object | then just Drop It ;)
+
+## instructions
+- enable addon
+- right click mesh
+- click `drop-it`
+
+![image](https://github.com/hannesdelbeke/drop-it-blender-addon/assets/3758308/19f2f4ab-520d-48fd-b823-6cabf1cad643)
 
 ## comunity
 - Blender artist [discussion](https://blenderartists.org/t/drop-it-free-addon/1244259)https://blenderartists.org/t/drop-it-free-addon/1244259
