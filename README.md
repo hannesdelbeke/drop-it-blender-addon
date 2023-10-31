@@ -1,4 +1,4 @@
-# Drop-it 
+# Drop-it (mirror host)
 
 Drop-it: A Blender add-on to position meshes on the surface underneath  
 
