@@ -1,4 +1,4 @@
-# Drop-it (mirror host)
+# Drop-it by Andreasaust (mirror host)
 
 Drop-it: A Blender add-on to position meshes on the surface underneath  
 
@@ -27,3 +27,5 @@ download zip file | start Blender | open preferences | switch to the Add-ons tab
 
 ## comunity
 - Blender artist [discussion](https://blenderartists.org/t/drop-it-free-addon/1244259)https://blenderartists.org/t/drop-it-free-addon/1244259
+
+All credit goes to **Andreasaust** 🙏
