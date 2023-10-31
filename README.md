@@ -1,4 +1,5 @@
-# Drop-it by Andreasaust (mirror host)
+# Drop-it
+## A rehost of Andreasaust's Blender add-on 
 
 Drop-it: A Blender add-on to position meshes on the surface underneath  
 
