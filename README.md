@@ -1,4 +1,4 @@
-# Drop-it, by Andreasaust's 
+# Drop-it, by Andreasaust
 
 Drop-it: A Blender add-on to position meshes on the surface underneath  
 
