@@ -34,7 +34,7 @@ download zip file | start Blender | open preferences | switch to the Add-ons tab
 ![image](https://github.com/hannesdelbeke/drop-it-blender-addon/assets/3758308/19f2f4ab-520d-48fd-b823-6cabf1cad643)
 
 ## comunity
-- Blender artist [discussion](https://blenderartists.org/t/drop-it-free-addon/1244259)https://blenderartists.org/t/drop-it-free-addon/1244259
+- Blender artist [discussion](https://blenderartists.org/t/drop-it-free-addon/1244259)
 
 All credit goes to **Andreasaust** 🙏
 
