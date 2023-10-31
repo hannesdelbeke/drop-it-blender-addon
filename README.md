@@ -35,3 +35,5 @@ download zip file | start Blender | open preferences | switch to the Add-ons tab
 - Blender artist [discussion](https://blenderartists.org/t/drop-it-free-addon/1244259)https://blenderartists.org/t/drop-it-free-addon/1244259
 
 All credit goes to **Andreasaust** 🙏
+
+[plugget entry](https://github.com/plugget/plugget-pkgs/tree/main/blender/drop-it-addon)
